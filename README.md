@@ -14,5 +14,5 @@ Google Chrome 插件下载：[HBOSubtitles.zip](https://github.com/medunea/HBO-/
 
 ****
 
-#### 加我微信不吃亏，拉你进群~~
+#### 加我微信不吃亏，拉你进群等更新~~
 <img src="https://github.com/medunea/HBOSubtitles/assets/138159016/aa6c2383-7a92-475e-aee4-9395ce4511bb" alt="微信二维码" width="320"/>
