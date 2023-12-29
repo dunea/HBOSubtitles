@@ -8,4 +8,4 @@
 
 打开管理扩展程序 -> 打开开发者模式 -> 把下载的HBOSubtitles.zip压缩包解压 -> HBOSubtitles文件夹拖入扩展程序页面即可 -> 记得要打开插件开关
 
-[HBOSubtitles.zip](https://github.com/medunea/HBO-/files/13796104/HBOSubtitles.zip)
+Google Chrome 插件下载：[HBOSubtitles.zip](https://github.com/medunea/HBO-/files/13796104/HBOSubtitles.zip)
