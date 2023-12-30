@@ -1,0 +1,54 @@
+{
+    "manifest_version": 3,
+    "name": "HBOSubtitles",
+    "version": "1.0",
+    "description": "HBO中文字幕翻译",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "storage",
+        "tabs",
+        "webRequest",
+        "notifications",
+        "declarativeNetRequest",
+        "declarativeNetRequestWithHostAccess",
+        "declarativeNetRequestFeedback"
+    ],
+    "host_permissions": [
+        "*://example.com/*",
+        "*://anotherexample.com/*",
+        "*://*.example.com/*",
+        "*://*.prd.media.h264.io/*",
+        "*://*.media.h264.io/*",
+        "*://play.max.com/"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": true
+    },
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "ruleset_1",
+                "enabled": true,
+                "path": "rules_1.json"
+            }
+        ]
+    }
+}

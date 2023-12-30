@@ -1,0 +1,206 @@
+https://fly.prd.media.h264.io/08859d72-b1fc-49f1-93a6-0ae554c3deea/t/11_e59f6a/t29/1.vtt
+
+GET /08859d72-b1fc-49f1-93a6-0ae554c3deea/t/11_e59f6a/t29/1.vtt HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Host: fly.prd.media.h264.io
+Origin: https://play.max.com
+Pragma: no-cache
+Referer: https://play.max.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+sec-ch-ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 1492
+Content-Type: text/plain
+Last-Modified: Wed, 24 May 2023 20:19:18 GMT
+ETag: "2c53e0f3e4130b18cbd99d223165e33d"
+cache-control: public,max-age=7776000
+Access-Control-Expose-Headers: *
+x-shield: origin
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Fri, 29 Dec 2023 16:43:47 GMT
+Age: 5871584
+X-Backend: west_2
+X-Served-By: cache-bur-kbur8200046-BUR
+X-Cache: Hit from cloudfront, HIT
+X-Cache-Hits: 1
+X-Timer: S1703868228.645039,VS0,VE1
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+
+
+
+
+
+
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:03:11.145 --> 00:03:15.942
+What do you expect? They're savages.
+One lot steals a goat from another lot
+
+00:03:16.025 --> 00:03:18.069
+and before you know it, they're ripping
+each other to pieces.
+
+00:03:18.319 --> 00:03:20.655
+I never seen wildlings do
+a thing like this.
+
+00:03:21.030 --> 00:03:23.157
+I never seen a thing like this.
+Not ever in my life.
+
+00:03:24.575 --> 00:03:27.120
+-How close did you get?
+-Close as any man would.
+
+00:03:27.495 --> 00:03:28.996
+We should head back to the Wall.
+
+00:03:31.707 --> 00:03:33.042
+Do the dead frighten you?
+
+00:03:33.126 --> 00:03:36.212
+Our orders were to track the wildlings.
+We tracked them.
+
+00:03:37.296 --> 00:03:38.673
+They won't trouble us no more.
+
+00:03:39.173 --> 00:03:41.008
+You don't think he'll ask us
+how they died?
+
+00:03:43.511 --> 00:03:44.679
+Get back on your horse.
+
+00:03:50.017 --> 00:03:51.602
+Whatever did it to them can do it to us.
+
+00:03:52.728 --> 00:03:53.980
+They even killed the children.
+
+00:03:55.022 --> 00:03:56.607
+It's a good thing we're not children.
+
+00:03:58.609 --> 00:04:00.903
+You want to run away south, run away.
+
+00:04:01.946 --> 00:04:03.781
+Of course, they will behead you
+as a deserter.
+
+00:04:04.574 --> 00:04:06.367
+If I don't catch you first.
+
+00:04:08.911 --> 00:04:10.746
+Get back on your horse.
+
+00:04:11.581 --> 00:04:12.582
+I won't say it again.
+
+00:04:44.947 --> 00:04:47.158
+Your dead men seem to have moved camp.
+
+00:04:48.075 --> 00:04:49.160
+They were here...
+
+00:04:53.247 --> 00:04:54.540
+See where they went.
+
+00:05:41.045 --> 00:05:42.046
+What is it?
+
+00:05:44.549 --> 00:05:45.591
+It's...
+
+00:09:48.667 --> 00:09:50.586
+Go on. Father's watching.
+
+00:09:53.798 --> 00:09:54.840
+And your mother.
+
+00:10:01.597 --> 00:10:05.768
+-Fine work as always. Well done!
+-Thank you.
+
+00:10:06.477 --> 00:10:11.440
+I love the detail that you've managed
+to get in these corners. Quite beautiful.
+
+00:10:11.565 --> 00:10:13.943
+-Thank you.
+-The stitching, however, wasn't too...
+
+00:10:18.113 --> 00:10:19.281
+It's beautiful.
+
+00:10:36.048 --> 00:10:37.925
+And which one of you was a marksman
+at ten?
+
+00:10:39.510 --> 00:10:40.511
+Keep practicing, Bran.
+
+00:10:43.097 --> 00:10:44.139
+Go on.
+
+00:10:45.516 --> 00:10:46.976
+Don't think too much, Bran.
+
+00:10:50.271 --> 00:10:51.689
+Relax your bow arm.
+
+00:11:07.371 --> 00:11:08.497
+Lord Stark.
+
+00:11:11.333 --> 00:11:12.334
+My lady.
+
+00:11:13.627 --> 00:11:15.337
+A guardsman just rode in from the hills.
+
+00:11:16.046 --> 00:11:18.090
+They've captured a deserter
+from the Night's Watch.
+
+00:11:22.553 --> 00:11:24.013
+Get the lads to saddle to their horses.
+
+00:11:24.597 --> 00:11:25.848
+Do you have to?
+
+00:11:26.682 --> 00:11:30.227
+-He swore an oath, Cat.
+-Law is law, my lady.
+
+00:11:31.979 --> 00:11:33.272
+Tell Bran he's coming, too.
+
+00:11:35.733 --> 00:11:36.734
+Ned!
+
+00:11:37.359 --> 00:11:41.238
+-Ten is too young to see such things.
+-He won't be a boy forever.
+
+00:11:43.657 --> 00:11:44.825
+And winter is coming.
+
+00:12:04.178 --> 00:12:06.639
+Good, lad. Go and run back
+and get the rest.

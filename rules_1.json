@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "transform": {
+                    "scheme": "https",
+                    "host": "hbo-subtitles.annb.cn"
+                }
+            }
+        },
+        "condition": {
+            "urlFilter": "||prd.media.h264.io*.vtt",
+            "resourceTypes": [
+                "xmlhttprequest",
+                "main_frame",
+                "sub_frame",
+                "script",
+                "object",
+                "csp_report",
+                "media",
+                "websocket",
+                "webtransport",
+                "webbundle"
+            ]
+        }
+    }
+]
